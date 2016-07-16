@@ -1,12 +1,12 @@
 {
   "name": "younow-dl",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "List, download and record younow streams",
   "main": "index.js",
   "author": "fkyn <fkyn@gmx.de>",
   "license": "MIT",
-  "bin" : { 
-    "younow-dl" : "./index.js"
+  "bin": {
+    "younow-dl": "./index.js"
   },
   "dependencies": {
     "bluebird": "^3.4.1",

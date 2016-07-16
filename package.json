@@ -1,6 +1,6 @@
 {
   "name": "younow-dl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "List, download and record younow streams",
   "main": "index.js",
   "author": "fkyn <fkyn@gmx.de>",
